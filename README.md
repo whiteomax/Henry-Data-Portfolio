@@ -1,9 +1,9 @@
 # Henry-Data-Portfolio
 Welcome to my professional data portfolio. This repository showcases end-to-end data projects that demonstrate my skills in:  
 
-*Exploratory Data Analysis (EDA)
-*Statistical Testing (ANOVA, Kruskal-Wallis, Chi-square, etc.)
-*Machine Learning (Regression, Classification)
+*Exploratory Data Analysis
+*Statistical Testing 
+*Machine Learning
 *Data Engineering (SQL, BigQuery, Pipelines)
 *Dashboarding (Power BI, Tableau)
 *Sentiment & Text Analysis
@@ -18,23 +18,22 @@ Each folder contains a single project with the following standard format:
 project-name/
 ├── README.md              # Project overview & results
 ├── data/                  # Cleaned or sample data (no raw PII)
-├── notebook.ipynb         # EDA + modeling (Kaggle-style if applicable)
+├── notebook.ipynb         # EDA + modeling 
 ├── sql/                   # SQL scripts or BigQuery queries
 ├── images/                # Visualizations used in README or dashboards
 ├── dashboard/             # Tableau Public link or Power BI screenshots
-└── report.pdf             # (Optional) PDF report for stakeholder summary
+└── report                 # Report for stakeholder summary
 ```
 
 ---
 
 ## 🌐 Live Portfolio Links
 
-| Project                               | Type            | Tools Used                                  | Link                        |
-| ------------------------------------- | --------------- | ------------------------------------------- | --------------------------- |
-| Google Play Store App Analysis        | EDA + ML        | Pandas, Matplotlib, Kruskal-Wallis, Sklearn | [GitHub](#) • [Kaggle](#)   |
-| Customer Churn Dashboard (Telco Data) | Dashboard + SQL | BigQuery, Power BI, SQL                     | [GitHub](#) • [Power BI](#) |
-| Marketing Funnel Optimization         | Regression      | Python, Seaborn, Lasso, ANOVA               | [GitHub](#)                 |
-| Product Review Sentiment Classifier   | NLP + ML        | NLTK, TF-IDF, Logistic Regression           | [GitHub](#)                 |
+| Project                               | Type              | Tools Used                                  | Link                        |
+| ------------------------------------- | ------------------| ------------------------------------------- | --------------------------- |
+| Google Play Store App Analysis        | EDA + ML          | Pandas, Matplotlib, Kruskal-Wallis, Sklearn | [GitHub](#) • [Kaggle](#)   |
+| Customer Churn Dashboard (Telco Data) | Dashboard + SQL   | BigQuery, Tableau, SQL                      | [GitHub](#) • [Tableau](#)  |
+| Hotel Revenue Dashboard               | Dashboard + Excel | Power BI, Excel                             | [GitHub](#) • [Power BI](#) |
 
 ---
 
