@@ -1,12 +1,12 @@
 # Henry-Data-Portfolio
 Welcome to my professional data portfolio. This repository showcases end-to-end data projects that demonstrate my skills in:  
 
-*Exploratory Data Analysis
-*Statistical Testing 
-*Machine Learning
-*Data Engineering (SQL, BigQuery, Pipelines)
-*Dashboarding (Power BI, Tableau)
-*Sentiment & Text Analysis
+*Exploratory Data Analysis  
+*Statistical Testing   
+*Machine Learning  
+*Data Engineering (SQL, BigQuery, Pipelines)  
+*Dashboarding (Power BI, Tableau)   
+*Sentiment & Text Analysis   
 
 ---
 
